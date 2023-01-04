@@ -1,4 +1,4 @@
-var age = 21
+var age = 2
 if (age >= 21) {
   console.log("Welcome to the Jungle"); 
 } else if (age === 2) {
