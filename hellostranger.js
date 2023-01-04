@@ -4,3 +4,4 @@ if (myname === "Oscar") {
 } else {
     console.log(`Nice to meet you, ${myname}!`)
 }
+hello
